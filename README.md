@@ -1,4 +1,3 @@
-# Project-for-NYC-Collission
 # NYC Collision Analysis
 
 This project investigates traffic collision data in New York City to identify patterns, causes, and actionable insights. The findings aim to enhance road safety, improve traffic management, and reduce accidents.
