@@ -2,6 +2,8 @@
 
 This project investigates traffic collision data in New York City to identify patterns, causes, and actionable insights. The findings aim to enhance road safety, improve traffic management, and reduce accidents.
 
+[image](https://github.com/user-attachments/assets/0ffc86d5-dd28-4166-8e2d-912fd031745e)
+
 ---
 
 ## Features
